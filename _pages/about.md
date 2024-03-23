@@ -39,7 +39,7 @@ Manuscript/Preprints:
 
 - **[IEEE TNNLS]**  **Cheng Liu**, Rui Li, Hangjun Che, Si Wu, Dazhi Jiang, Zhiwen Yu and Hau-San Wong: Collaborative Topological Graph Learning for Multi-View Clustering. *IEEE Transactions on Neural Networks and Learning Systems* (**Revision**)  [JCR Q1] [CCF B]
 
-- **[IEEE TCBB]** Hang Gao (Student), Wenjun Shen, and **Cheng Liu#**: Collaborative Structure-Preserved Missing Data Imputation for Single-Cell RNA-Seq Clustering. *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (Minor Revision) [CCF B] **(Corresponding author)** 
+- **[IEEE TCBB]** Hang Gao (Student), Wenjun Shen, and **Cheng Liu#**: Collaborative Structure-Preserved Missing Data Imputation for Single-Cell RNA-Seq Clustering. *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (**Minor Revision**) [CCF B] **(Corresponding author)** 
 
 - **[IEEE ICME]** Reference-conditional Makeup-aware Discrimination for Face Image Beautification, ZhenPing Li, Xindian Wei, Qianfen Jiao, Rui Li, **Cheng Liu** and Si Wu. ICME 2024.  
 

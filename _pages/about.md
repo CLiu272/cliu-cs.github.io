@@ -11,7 +11,7 @@ Dr. Cheng Liu is currently a Lecturer in the Department of Computer Science at S
 
 Work Experiences
 ======
-Lecturer, Department of Computer Science,  Shantou University, 2018 - Now
+Lecturer (讲师), Department of Computer Science,  Shantou University, 2018 - Now
     
 Research Areas
 ======
